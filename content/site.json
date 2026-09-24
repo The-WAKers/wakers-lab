@@ -1,0 +1,104 @@
+{
+  "labName": "The WAKers",
+  "labFullName": "Abou-Kheir Lab",
+  "institution": "American University of Beirut",
+  "department": "Department of Anatomy, Cell Biology and Physiological Sciences",
+  "faculty": "Faculty of Medicine",
+  "logo": "/assets/img/wakers-logo.svg",
+  "hero": {
+    "eyebrow": "Abou-Kheir Lab · American University of Beirut",
+    "title": "Stem cells build tumors. They also build *new neurons*.",
+    "subtitle": "The WAKers follow stem and progenitor cells in two directions: the ones that seed tumors and survive treatment, which we grow as patient-derived organoids and 3D spheres, and the ones that keep making new neurons in the adult brain.",
+    "primaryLabel": "Explore our research",
+    "primaryPage": "research",
+    "secondaryLabel": "Join the WAKers",
+    "secondaryPage": "join",
+    "caption": "Live illustration of a confocal field: patient-derived organoids and cultured neurons.",
+    "channels": [
+      {
+        "id": "dapi",
+        "label": "DAPI",
+        "title": "Nuclei"
+      },
+      {
+        "id": "ck8",
+        "label": "GFP",
+        "title": "Luminal cells and neurites"
+      },
+      {
+        "id": "ck5",
+        "label": "mCherry",
+        "title": "Basal cells and axons"
+      }
+    ]
+  },
+  "mission": "Founded by Dr. Wassim Abou-Kheir in 2011, the WAKers study stem and progenitor cells on two fronts: the cancer stem cells that seed tumors and survive therapy, and the neural stem cells that keep making new neurons in the adult brain.",
+  "missionSecondary": "On the cancer side we build models that behave like real disease — new prostate cancer cell lines, three-dimensional spheres and patient-derived organoids — and use them to test existing and new drugs. On the neuroscience side we measure how the adult brain renews itself, and what stimulates, suppresses or repairs it, from deep brain stimulation and focused ultrasound to inflammation and injury. Brain tumors are where the two meet. Just as important, we train: more than 200 students, physicians and scientists have come through the lab.",
+  "facts": [
+    {
+      "value": "2011",
+      "label": "Lab founded at AUB"
+    },
+    {
+      "value": "200+",
+      "label": "Researchers trained"
+    },
+    {
+      "value": "{publications}",
+      "label": "Papers on PubMed"
+    },
+    {
+      "value": "2",
+      "label": "Research programs: cancer and brain"
+    }
+  ],
+  "contact": {
+    "email": "wa12@aub.edu.lb",
+    "phone": "",
+    "addressLines": [
+      "Department of Anatomy, Cell Biology and Physiological Sciences",
+      "Faculty of Medicine, American University of Beirut",
+      "Riad El-Solh, Beirut 1107 2020, Lebanon"
+    ],
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Faculty+of+Medicine+American+University+of+Beirut"
+  },
+  "links": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/wakers_lab/"
+    },
+    {
+      "label": "Department lab page",
+      "url": "https://www.aub.edu.lb/fm/DACP/Pages/WassimAbouKheirLab.aspx"
+    },
+    {
+      "label": "Faculty profile",
+      "url": "https://www.aub.edu.lb/pages/profile.aspx?memberId=wa12"
+    },
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=DJmzqb0AAAAJ"
+    },
+    {
+      "label": "ResearchGate",
+      "url": "https://www.researchgate.net/lab/The-WAK-Laboratory-Wassim-Abou-Kheir"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/wassim-abou-kheir-04718311"
+    }
+  ],
+  "home": {
+    "mapTitle": "WAKers around the world",
+    "mapText": "Trainees from both programs have gone on to residencies, PhDs, postdocs and faculty positions across the world. Every dot is a WAKer."
+  },
+  "instagram": {
+    "handle": "@wakers_lab",
+    "url": "https://www.instagram.com/wakers_lab/"
+  },
+  "teamPhoto": {
+    "image": "/media/lab/lab-2026-group-picture.jpg",
+    "alt": "Group photo of the WAKers in the lab, some standing and some seated.",
+    "caption": "The WAKers in the lab, 2026."
+  }
+}

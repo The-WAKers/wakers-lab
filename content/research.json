@@ -1,0 +1,244 @@
+{
+  "intro": "The lab runs two research programs that share one question: what do stem and progenitor cells do? On one side, the cancer stem cells that seed tumors, resist therapy and rebuild disease. On the other, the neural stem cells that keep making new neurons in the adult brain. Brain tumors are where the two meet.",
+  "programs": [
+    {
+      "id": "cancer",
+      "label": "Cancer",
+      "title": "Cancer stem cells and tumor models",
+      "text": "Tumors are organized, and a small population of stem and progenitor cells helps them grow, spread and survive treatment. To study that, we build models that keep the three-dimensional structure and behavior of real disease.",
+      "themes": [
+        "organoids",
+        "csc",
+        "prostate",
+        "gu"
+      ]
+    },
+    {
+      "id": "brain",
+      "label": "Brain",
+      "title": "Neurogenesis and neural stem cells",
+      "text": "The adult brain keeps producing new neurons, and that capacity tracks with memory, mood and recovery from injury. We measure it in vivo, test what raises and lowers it, and grow neural stem cells to repair the injured nervous system.",
+      "themes": [
+        "neurogenesis",
+        "neurorepair"
+      ]
+    },
+    {
+      "id": "bridge",
+      "label": "Where they meet",
+      "title": "Across both programs",
+      "text": "Two lines of work belong to neither half alone: the stem cells of brain tumors, and the search for drugs that can be repurposed against cancer cells wherever they sit.",
+      "themes": [
+        "neurooncology",
+        "therapeutics"
+      ]
+    }
+  ],
+  "themes": [
+    {
+      "id": "organoids",
+      "title": "Patient-derived organoids",
+      "icon": "organoid",
+      "summary": "Living, patient-specific tumor models grown in 3D to see how each cancer behaves and responds to drugs.",
+      "description": "Organoids are three-dimensional structures grown from a patient's own tumor cells. They keep much of the architecture, cell types and behavior of the tumor they came from. We establish and characterize organoids from prostate cancer and other solid tumors, including colorectal cancer, and use them to model disease, test drugs and study why patients respond differently to the same therapy.",
+      "questions": [
+        "How faithfully does an organoid preserve the tumor it came from?",
+        "Can an organoid's response to a drug help anticipate the patient's?",
+        "Which growth factors and conditions keep patient cells growing in 3D?"
+      ],
+      "methods": [
+        "Organoid derivation from patient tissue",
+        "Histology and immunofluorescence",
+        "3D drug testing",
+        "Transcriptomic profiling"
+      ]
+    },
+    {
+      "id": "csc",
+      "title": "Cancer stem cells",
+      "icon": "sphere",
+      "summary": "Finding and targeting the self-renewing cells that seed tumors and survive therapy.",
+      "description": "A small population of cancer stem/progenitor cells can initiate tumors, fuel their growth and resist treatment. We isolate and characterize these cells from solid tumors, including prostate, brain, lung and colorectal cancers, using sphere-formation assays and 3D culture, and we test agents that target them directly.",
+      "questions": [
+        "What makes a cancer cell able to self-renew and re-grow a tumor?",
+        "Which pathways keep cancer stem cells alive under therapy?",
+        "Can existing drugs be repurposed to eliminate them?"
+      ],
+      "methods": [
+        "Sphere-formation assay",
+        "Serial passaging and self-renewal",
+        "In vivo tumorigenicity",
+        "Marker profiling"
+      ]
+    },
+    {
+      "id": "prostate",
+      "title": "Prostate cancer progression",
+      "icon": "gland",
+      "summary": "Modeling how prostate cancer becomes castration-resistant, and testing ways to stop it.",
+      "description": "Most advanced prostate cancers eventually stop responding to androgen-deprivation therapy. We have developed murine and human prostate cancer cell lines that span the disease, from primary to castration-resistant, and use them to study progression, epithelial-to-mesenchymal transition and links with metabolic disease such as diabetes. We test repurposed and novel drugs, including imipridones, in androgen-independent models.",
+      "questions": [
+        "What changes as prostate cancer becomes castration-resistant?",
+        "Which targets can overcome drug resistance in advanced disease?",
+        "How do metabolic conditions influence prostate cancer growth?"
+      ],
+      "methods": [
+        "Novel murine and human cell lines",
+        "Pten/TP53 progression models",
+        "2D and 3D drug combinations",
+        "Biomarker studies"
+      ]
+    },
+    {
+      "id": "gu",
+      "title": "Bladder and genitourinary cancers",
+      "icon": "urothelium",
+      "summary": "Bringing our 3D models and biomarker work to bladder cancer and other GU tumors.",
+      "description": "We apply our 3D-culture expertise to bladder cancer, for example to compare how tumor cells respond to radiation in 2D versus 3D, and we study tissue and liquid biomarkers across genitourinary cancers, from immunohistochemical markers in muscle-invasive bladder cancer to urine-derived exosomes.",
+      "questions": [
+        "Do 3D bladder cancer models predict radiation response better than 2D?",
+        "Which tissue and urine markers carry prognostic information?"
+      ],
+      "methods": [
+        "2D vs 3D radiosensitivity",
+        "Immunohistochemistry",
+        "Urine exosome analysis",
+        "Liquid biopsy"
+      ]
+    },
+    {
+      "id": "neurogenesis",
+      "title": "Adult neurogenesis",
+      "icon": "neuron",
+      "summary": "How the adult brain keeps making new neurons, what switches that on, and what shuts it down.",
+      "description": "The adult hippocampus keeps producing new neurons, and that capacity tracks with memory, mood and recovery. We measure neurogenesis in rodent models and ask what moves it in each direction. On the raising side, we have shown that electrical stimulation of the thalamus, low-intensity focused ultrasound and nitrous oxide all increase the birth of new neurons in the dentate gyrus, alongside changes in exploratory behavior and spatial memory. On the lowering side, we have shown that inflammation suppresses it, whether from endotoxin injected into the brain or a urinary tract infection elsewhere in the body. We also test nutritional and pharmacological factors, from vitamin D and docosahexaenoic acid to retained gadolinium and anesthetics.",
+      "questions": [
+        "Which stimuli reliably increase the birth of new neurons in the adult brain?",
+        "How does inflammation far from the brain suppress neurogenesis?",
+        "Does more neurogenesis actually translate into better memory and behavior?"
+      ],
+      "methods": [
+        "Stereotaxic surgery and deep brain stimulation",
+        "Low-intensity focused ultrasound",
+        "BrdU and doublecortin labeling",
+        "Behavioral testing",
+        "Confocal imaging and stereology"
+      ]
+    },
+    {
+      "id": "neurorepair",
+      "title": "Neural stem cells and repair",
+      "icon": "neurosphere",
+      "summary": "Growing neural stem cells, modeling neurological disease, and repairing the injured nervous system.",
+      "description": "Neural stem cells can be grown as neurospheres, pushed towards neurons and glia, and transplanted. We use them to model neurological and neurodegenerative disease, including from induced pluripotent stem cells, and to test repair after injury: neonatal neural stem cell transplantation following traumatic brain injury, and adipose-derived stem cell therapy in spinal cord injury. With engineering collaborators we also study the physical side of that repair, from biomimetic glycosaminoglycan surfaces that control which growth factors reach the cells to nano-scale topography that changes how neurons adhere.",
+      "questions": [
+        "Can transplanted neural stem cells improve recovery after brain or spinal cord injury?",
+        "Which surface and matrix cues best support neural and glial growth?",
+        "How faithfully do iPSC-derived neurons model neurodegenerative disease?"
+      ],
+      "methods": [
+        "Neurosphere assay",
+        "iPSC neuronal differentiation",
+        "Cell transplantation models",
+        "Biomaterials and nano-topography",
+        "Immunocytochemistry"
+      ]
+    },
+    {
+      "id": "neurooncology",
+      "title": "Brain and nervous system tumors",
+      "icon": "gbm",
+      "summary": "Cancer stem cells in glioblastoma and neuroblastoma, where the lab's two programs meet.",
+      "description": "Brain tumors sit exactly where the lab's two halves join: the stem and progenitor biology we study in the nervous system also drives some of the hardest cancers to treat. We isolate cancer stem/progenitor cells from glioblastoma and neuroblastoma, grow them as spheres, and test agents against them, including the GSK-3β inhibitor tideglusib, metformin combined with Ara-a, and the imipridones ONC201 and ONC206 in MYCN-amplified neuroblastoma. We also work on the Akt/mTOR pathway in these cells, on three-dimensional modeling of CNS tumors, and on the blood-brain barrier that keeps most drugs out.",
+      "questions": [
+        "Which pathways keep brain tumor stem cells alive after radiation?",
+        "Can drugs approved for other diseases reach the brain and work there?",
+        "How should CNS tumors be modeled in three dimensions?"
+      ],
+      "methods": [
+        "Neurosphere and tumorsphere assays",
+        "3D CNS tumor models",
+        "Radiosensitization",
+        "In vivo brain tumor models"
+      ]
+    },
+    {
+      "id": "therapeutics",
+      "title": "Natural products and drug repurposing",
+      "icon": "molecule",
+      "summary": "Testing plant-derived compounds and existing drugs as new therapies, in tumors and in the brain.",
+      "description": "We evaluate compounds from the region's flora and drugs already approved for other uses as new anticancer agents: from Berberis libanotica extract and thymoquinone to metformin, piroxicam, tideglusib and the imipridones ONC201, ONC206 and ONC212. We pay particular attention to their effects on cancer stem cells and on sensitivity to radiation. The same repurposing logic runs through our neuroscience work, where approved drugs and non-invasive stimulation are tested for their effect on the brain.",
+      "questions": [
+        "Which natural products from the Middle East and North Africa have real anticancer potential?",
+        "Can approved drugs be combined with standard therapy to overcome resistance?"
+      ],
+      "methods": [
+        "Natural product screening",
+        "Drug combination studies",
+        "Radiosensitization assays",
+        "Mechanism of action"
+      ]
+    }
+  ],
+  "pipeline": {
+    "title": "From a patient's tumor to a model we can test",
+    "text": "How a patient-derived organoid comes together in the lab.",
+    "steps": [
+      {
+        "title": "Tissue",
+        "text": "A small piece of tumor from surgery or biopsy, donated by a consenting patient."
+      },
+      {
+        "title": "3D culture",
+        "text": "Cells are embedded in a gel matrix and fed growth factors until they self-organize."
+      },
+      {
+        "title": "Characterize",
+        "text": "We compare the organoid to the original tumor: structure, markers and gene expression."
+      },
+      {
+        "title": "Test",
+        "text": "Organoids are exposed to drugs and combinations to measure how they respond."
+      },
+      {
+        "title": "Learn",
+        "text": "Responses are read against the tumor's biology, with the long-term aim of anticipating how patients will respond."
+      }
+    ]
+  },
+  "platforms": [
+    {
+      "title": "Patient-derived organoids",
+      "text": "Prostate, colorectal and other solid tumors grown from patient tissue."
+    },
+    {
+      "title": "3D sphere-formation assays",
+      "text": "Our published protocol for enriching cancer stem/progenitor cells."
+    },
+    {
+      "title": "Prostate cancer cell lines",
+      "text": "Novel murine lines modeling primary and castration-resistant disease."
+    },
+    {
+      "title": "In vivo neurogenesis models",
+      "text": "Rodent models with stereotaxic surgery, stimulation and BrdU labeling."
+    },
+    {
+      "title": "Neural stem cell culture",
+      "text": "Neurospheres, iPSC-derived neurons and transplantation models."
+    },
+    {
+      "title": "In vivo tumor models",
+      "text": "Mouse models of prostate, brain and other solid tumors."
+    },
+    {
+      "title": "Stem cell differentiation",
+      "text": "Embryonic and induced pluripotent stem cells for disease modeling."
+    },
+    {
+      "title": "Molecular profiling",
+      "text": "Transcriptomics, protein analysis and biomarker assessment."
+    }
+  ],
+  "collaborators": []
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "image": "/media/micro/cell-bladder-patient-derived-organoids-1-if.jpg",
+    "title": "Bladder cancer organoid",
+    "caption": "A patient-derived bladder cancer organoid by immunofluorescence: nuclei in blue, cell outlines in green.",
+    "channels": "Immunofluorescence · DAPI",
+    "category": "organoids",
+    "credit": "",
+    "alt": "A round cluster of cells with blue nuclei and bright green outlines on a black background, with a smaller cluster beside it.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-3d-culture-40x-magnification.jpg",
+    "title": "Prostate cancer spheres",
+    "caption": "PC3 spheres grown in 3D, where only cells that can self-renew form spheres.",
+    "channels": "Brightfield · 40x",
+    "category": "spheres",
+    "credit": "",
+    "alt": "Several round, textured spheres of cells in a pale grey field.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-2d-culture-20x-magnification.jpg",
+    "title": "PC3 cells in 2D",
+    "caption": "PC3 prostate cancer cells growing flat on plastic.",
+    "channels": "Phase contrast · 20x",
+    "category": "culture",
+    "credit": "",
+    "alt": "Spindle-shaped cells spread across a grey field, with a few bright round cells.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/neuro-picture1.jpg",
+    "title": "The hippocampus",
+    "caption": "A hippocampal section by immunofluorescence. The curved bands are its neuron layers, including the dentate gyrus, where new neurons are born in the adult brain.",
+    "channels": "Immunofluorescence",
+    "category": "neuro",
+    "credit": "",
+    "alt": "Bright green curved bands of densely packed cells on a dark background, forming the shape of the hippocampus.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-group-picture.jpg",
+    "title": "The WAKers, 2026",
+    "caption": "The team in the lab.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "Group photo of the WAKers in the lab, some standing and some seated.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-bladder-patient-derived-organoids-1.jpg",
+    "title": "Bladder organoids in culture",
+    "caption": "Organoids grown from a patient’s bladder tumor, in a 3D matrix.",
+    "channels": "Brightfield",
+    "category": "organoids",
+    "credit": "",
+    "alt": "Round organoids of different sizes scattered through a pale yellow-green field.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/neuro-picture2.jpg",
+    "title": "Dentate gyrus",
+    "caption": "The V-shaped dentate gyrus and the neuron layers around it.",
+    "channels": "Immunofluorescence",
+    "category": "neuro",
+    "credit": "",
+    "alt": "Green, densely packed cell layers curving through a dark tissue section.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-3d-culture-20x-magnification.jpg",
+    "title": "Spheres at 20x",
+    "caption": "PC3 spheres of different sizes, each grown from a single cell.",
+    "channels": "Brightfield · 20x",
+    "category": "spheres",
+    "credit": "",
+    "alt": "Round cell spheres of varied sizes spread across a light grey field.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-culture-work-hood.jpg",
+    "title": "Cell culture",
+    "caption": "Working in the biosafety cabinet.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "Two researchers in lab coats working inside a biosafety cabinet.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-bladder-patient-derived-organoids-2-if.jpg",
+    "title": "Inside a bladder organoid",
+    "caption": "Nuclei (blue) packed inside a patient-derived bladder organoid, cells outlined in green.",
+    "channels": "Immunofluorescence · DAPI",
+    "category": "organoids",
+    "credit": "",
+    "alt": "A close-up of one cell cluster with blue nuclei and bright green cell outlines on black.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/neuro-picture3.jpg",
+    "title": "Hippocampal section",
+    "caption": "Neuron layers of the hippocampus, with the dentate gyrus at the center.",
+    "channels": "Immunofluorescence",
+    "category": "neuro",
+    "credit": "",
+    "alt": "Two bright green curved bands of cells meeting in a dark tissue section.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-3d-culture-10x-magnification.jpg",
+    "title": "Spheres at 10x",
+    "caption": "A field of PC3 spheres in 3D culture.",
+    "channels": "Brightfield · 10x",
+    "category": "spheres",
+    "credit": "",
+    "alt": "Many small round spheres of cells scattered across a light field.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-culture-work-microscope.jpg",
+    "title": "Checking the cultures",
+    "caption": "Looking at cells on the inverted microscope.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "Researchers in lab coats gathered around an inverted microscope.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-bladder-patient-derived-organoids-2.jpg",
+    "title": "Organoids from a patient sample",
+    "caption": "Bladder cancer organoids of different sizes, grown from a tumor sample.",
+    "channels": "Brightfield",
+    "category": "organoids",
+    "credit": "",
+    "alt": "Round organoids of several sizes across a speckled yellow-green field.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/neuro-picture4.jpg",
+    "title": "Neuron layers",
+    "caption": "The layered structure of the hippocampus.",
+    "channels": "Immunofluorescence",
+    "category": "neuro",
+    "credit": "",
+    "alt": "Green bands of densely packed cells curving across a dark tissue section.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-2d-culture-10x-magnification.jpg",
+    "title": "PC3 monolayer",
+    "caption": "PC3 cells covering the dish as a single layer.",
+    "channels": "Phase contrast · 10x",
+    "category": "culture",
+    "credit": "",
+    "alt": "A dense field of small elongated cells in grey.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-neuro-team-imaging.jpg",
+    "title": "The neuro team",
+    "caption": "Going through images together.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "Members of the neuroscience team looking at images on a computer screen.",
+    "example": false
+  },
+  {
+    "image": "/media/micro/cell-pc3-3d-culture-40x-magnification-pic-3.jpg",
+    "title": "Two spheres",
+    "caption": "Two PC3 spheres side by side.",
+    "channels": "Brightfield · 40x",
+    "category": "spheres",
+    "credit": "",
+    "alt": "Two round, textured spheres of cells side by side on a pale background.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-bench-work.jpg",
+    "title": "At the bench",
+    "caption": "Pipetting at the bench.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "A researcher in a lab coat pipetting at a lab bench.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-bench-work-2.jpg",
+    "title": "Weighing reagents",
+    "caption": "Preparing reagents on the analytical balance.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "A researcher in a lab coat and gloves using an analytical balance.",
+    "example": false
+  },
+  {
+    "image": "/media/lab/lab-2026-bench-work-3.jpg",
+    "title": "Sample prep",
+    "caption": "Preparing samples at the bench.",
+    "channels": "",
+    "category": "lab-life",
+    "credit": "",
+    "alt": "A researcher at the bench holding a tube next to a benchtop instrument.",
+    "example": false
+  }
+]

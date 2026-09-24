@@ -1,0 +1,1915 @@
+{
+  "meta": {
+    "source": "pubmed-csv",
+    "query": "\"Abou-Kheir W\"[Author] OR \"Abou Kheir W\"[Author] OR \"Kheir WA\"[Author]",
+    "complete": true,
+    "total": 117,
+    "updated": "2026-09-23"
+  },
+  "items": [
+    {
+      "pmid": "42518807",
+      "title": "Anticancer natural products from the Middle East and North Africa: biodiversity, mechanisms, and translational challenges",
+      "authors": "Hamiyeh R, Salhab Z, Bahmad HF, Abou Fayad AG, Abou-Kheir W",
+      "journal": "Front Oncol",
+      "year": 2026,
+      "details": "16:1846357",
+      "doi": "10.3389/fonc.2026.1846357",
+      "pmcid": "PMC13381201",
+      "type": "article",
+      "topics": [
+        "therapeutics"
+      ],
+      "sort": "2026-07-28"
+    },
+    {
+      "pmid": "42512419",
+      "title": "Cancer-Associated Fibroblast Heterogeneity and Extracellular Matrix Remodeling as Orchestrators of Drug Resistance in Upper Gastrointestinal Cancers: Insights from Spatial Multi-Omics and Therapeutic Implications",
+      "authors": "Mirzabeigi Y, Youssef J, Gonzalez J, Martinez T, Avellan R, Wong A, Perez M, Carvajal LL, Abou-Kheir W, Bahmad HF",
+      "journal": "Cancers (Basel)",
+      "year": 2026,
+      "details": "18(14):2358",
+      "doi": "10.3390/cancers18142358",
+      "pmcid": "PMC13406585",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2026-07-28"
+    },
+    {
+      "pmid": "42350197",
+      "title": "Low-Intensity Focused Ultrasound Enhances Hippocampal Neurogenesis via BDNF Pathways: Toward a Regenerative Modality for CNS Recovery",
+      "authors": "Kanaan K, Badawe H, Abou-Kheir W, Khraiche M",
+      "journal": "Ultrasound Med Biol",
+      "year": 2026,
+      "details": "52(9):1985-1993",
+      "doi": "10.1016/j.ultrasmedbio.2026.05.018",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2026-06-25"
+    },
+    {
+      "pmid": "42335997",
+      "title": "Individual Branched-Chain Amino Acid Restriction Alters Body Composition without Affecting Hemoglobin in Rats Fed a Low Protein Diet",
+      "authors": "Jaafar LS, Souss NS, Shehadi HH, Zein-Eddine RS, Bou Khalil RK, Eid AA, Abou-Kheir WG, Obeid OA",
+      "journal": "J Nutr",
+      "year": 2026,
+      "details": "156(8):101687",
+      "doi": "10.1016/j.tjnut.2026.101687",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2026-06-23"
+    },
+    {
+      "pmid": "42196575",
+      "title": "Integrated Phenotypic and Transcriptomic Profiling Positions ONC212 as a Lead Imipridone in Androgen-Independent Prostate Cancer Models",
+      "authors": "Ghamlouche F, Yehya A, Kurdi A, Hachem S, Prabhu VV, Daoud G, Abou-Kheir W",
+      "journal": "Int J Mol Sci",
+      "year": 2026,
+      "details": "27(10):4597",
+      "doi": "10.3390/ijms27104597",
+      "pmcid": "PMC13207072",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2026-05-27"
+    },
+    {
+      "pmid": "42114929",
+      "title": "Sustaining research in crisis settings: the Lebanese experience",
+      "authors": "Yehya A, Abou-Kheir W",
+      "journal": "BMJ Glob Health",
+      "year": 2026,
+      "details": "11(5):e021604",
+      "doi": "10.1136/bmjgh-2025-021604",
+      "pmcid": "PMC13182446",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2026-05-11"
+    },
+    {
+      "pmid": "42100436",
+      "title": "Perineural invasion in solid tumors: biological foundations and the emerging integration of machine learning and artificial intelligence",
+      "authors": "Bahmad HF, Mirzabeigi Y, Elajami YK, Abou-Kheir W, Nair N",
+      "journal": "Front Oncol",
+      "year": 2026,
+      "details": "16:1801005",
+      "doi": "10.3389/fonc.2026.1801005",
+      "pmcid": "PMC13143894",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2026-05-08"
+    },
+    {
+      "pmid": "41969205",
+      "title": "The Role of Blood-Brain Barrier in Brain Cancer: From Pathophysiology to Therapeutic Approaches",
+      "authors": "Masri DE, Tlayss M, Masri LE, Shehade H, Achcar JA, Baroud T, Zakhem TA, El Masri J, Abou-Kheir W",
+      "journal": "Cancer Control",
+      "year": 2026,
+      "details": "33:10732748261443870",
+      "doi": "10.1177/10732748261443870",
+      "pmcid": "PMC13080181",
+      "type": "article",
+      "topics": [
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2026-04-13"
+    },
+    {
+      "pmid": "41751498",
+      "title": "Epigenetic, Genetic, and Functional Germline Alterations of PAX Genes in Human Pathology: A Comprehensive Update",
+      "authors": "Gomez VL, Wegner S, Ocejo S, Perez D, Jabbour D, Fernandez V, Abulaban A, Bahmad M, Elajami TK, Abou-Kheir W, Bahmad HF",
+      "journal": "Curr Issues Mol Biol",
+      "year": 2026,
+      "details": "48(2):236",
+      "doi": "10.3390/cimb48020236",
+      "pmcid": "PMC12939336",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2026-02-27"
+    },
+    {
+      "pmid": "41749817",
+      "title": "Molecular Targets of Cervical Cancer and Its Microenvironment: Advances in Treatment",
+      "authors": "Youssef J, El Masri A, Atwi M, Ibrahim E, Salhab Z, Badawi M, Nazar F, Masri JE, Abou-Kheir W",
+      "journal": "Cancers (Basel)",
+      "year": 2026,
+      "details": "18(4):563",
+      "doi": "10.3390/cancers18040563",
+      "pmcid": "PMC12939043",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2026-02-27"
+    },
+    {
+      "pmid": "41480180",
+      "title": "Liquid biopsy in genitourinary cancers: Diagnostic and prognostic implications",
+      "authors": "Youssef J, Yehya A, Salhab Z, Bitar R, Ghamlouche F, Bahmad HF, Abou-Kheir W",
+      "journal": "World J Clin Oncol",
+      "year": 2025,
+      "details": "16(12):113578",
+      "doi": "10.5306/wjco.v16.i12.113578",
+      "pmcid": "PMC12754093",
+      "type": "article",
+      "topics": [
+        "gu"
+      ],
+      "sort": "2026-01-02"
+    },
+    {
+      "pmid": "41371578",
+      "title": "Nitrous oxide promotes exploratory activity and stimulates neurogenesis in a male rat model of post-traumatic stress disorder",
+      "authors": "Darwish B, Masri JE, Hourieh L, Nahas Z, Abou-Kheir W, Chamaa F",
+      "journal": "Neuroscience",
+      "year": 2026,
+      "details": "593:96-105",
+      "doi": "10.1016/j.neuroscience.2025.12.017",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2025-12-10"
+    },
+    {
+      "pmid": "41238725",
+      "title": "The role of urine derived exosome metalloproteinases as biomarkers for prostate cancer detection may be confounded by non-malignant prostatic inflammation",
+      "authors": "Najdi J, Hajjar L, Hadadeh O, Telvizian T, Dagher C, Hammoud MS, Hajj AE, Abou-Kheir W, Mukherji D, El-Sabban M",
+      "journal": "Sci Rep",
+      "year": 2025,
+      "details": "15(1):39929",
+      "doi": "10.1038/s41598-025-23767-5",
+      "pmcid": "PMC12618589",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "gu"
+      ],
+      "sort": "2025-11-14"
+    },
+    {
+      "pmid": "41107080",
+      "title": "Low-Intensity Ultrasound and Neural Repair: Unlocking Brain Plasticity and Functional Recovery",
+      "authors": "Issa K, Badawe H, Kenaan K, Zeidan A, Chu J, Obeid M, Abou-Kheir W, Khraiche M",
+      "journal": "Ultrasound Med Biol",
+      "year": 2026,
+      "details": "52(1):13-25",
+      "doi": "10.1016/j.ultrasmedbio.2025.09.003",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2025-10-17"
+    },
+    {
+      "pmid": "41097009",
+      "title": "Exploring the Role of Heat Shock Proteins in Neuroimmune Modulation in Rheumatoid Arthritis: Insights from a Rat Model",
+      "authors": "Fouani M, Scalia F, Mangano GD, Rappa F, Abou-Kheir W, Leone A, Lawand N, Barone R",
+      "journal": "Int J Mol Sci",
+      "year": 2025,
+      "details": "26(19):9743",
+      "doi": "10.3390/ijms26199743",
+      "pmcid": "PMC12525430",
+      "type": "article",
+      "topics": [
+        "neuro"
+      ],
+      "sort": "2025-10-16"
+    },
+    {
+      "pmid": "40805295",
+      "title": "Correction: Al Bitar et al. Thymoquinone Radiosensitizes Human Colorectal Cancer Cells in 2D and 3D Culture Models. Cancers 2022, 14, 1363",
+      "authors": "Al Bitar S, Ballout F, Monzer A, Kanso M, Saheb N, Mukherji D, Faraj W, Tawil A, Doughan S, Hussein M, Abou-Kheir W, Gali-Muhtasib H",
+      "journal": "Cancers (Basel)",
+      "year": 2025,
+      "details": "17(15):2449",
+      "doi": "10.3390/cancers17152449",
+      "pmcid": "PMC12346531",
+      "type": "correction",
+      "topics": [
+        "organoids",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2025-08-14"
+    },
+    {
+      "pmid": "40699850",
+      "title": "Investigating the Effects of ONC206 Alone and in Combination with Cisplatin on Ovarian Cancer Cell Models",
+      "authors": "Mikhael S, Fayyad R, Harfouch LA, Prabhu VV, Bahmad HF, Abou-Kheir W, Daoud G",
+      "journal": "Curr Issues Mol Biol",
+      "year": 2025,
+      "details": "47(6):451",
+      "doi": "10.3390/cimb47060451",
+      "pmcid": "PMC12191778",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2025-07-23"
+    },
+    {
+      "pmid": "40666288",
+      "title": "Repurposing piroxicam enhances the antineoplastic effects of docetaxel and enzalutamide in prostate cancer cells using 2D and 3D in vitro culture models",
+      "authors": "Yehya A, Ghamlouche F, Karami R, Hachem S, Salhab Z, Liu YN, Daoud G, Abou-Kheir W",
+      "journal": "Front Cell Dev Biol",
+      "year": 2025,
+      "details": "13:1551010",
+      "doi": "10.3389/fcell.2025.1551010",
+      "pmcid": "PMC12259556",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2025-07-16"
+    },
+    {
+      "pmid": "40429906",
+      "title": "Effect of Inorganic Phosphorus Manipulation on the Growth and Progression of Prostate Cancer Cells In Vitro",
+      "authors": "Kourie CM, Ghamlouche F, Hachem S, Yehya A, Jaafar L, El-Mallah C, Abou-Kheir W, Obeid O",
+      "journal": "Int J Mol Sci",
+      "year": 2025,
+      "details": "26(10):4762",
+      "doi": "10.3390/ijms26104762",
+      "pmcid": "PMC12112279",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2025-05-28"
+    },
+    {
+      "pmid": "40142843",
+      "title": "Description of the Risk Factors for Ischemic Stroke in the Lebanese Population: Their Association with Age at First Stroke Incidence and the Predictors of Recurrence",
+      "authors": "El Masri J, El Masri D, Ghazi M, Afyouni A, Finge H, El Ahdab J, Tlayss M, Al Chaar S, Abou-Kheir W, Salameh P, Hosseini H",
+      "journal": "J Clin Med",
+      "year": 2025,
+      "details": "14(6):2034",
+      "doi": "10.3390/jcm14062034",
+      "pmcid": "PMC11942646",
+      "type": "article",
+      "topics": [
+        "neuro"
+      ],
+      "sort": "2025-03-27"
+    },
+    {
+      "pmid": "39982238",
+      "title": "Update on the Complications and Management of Liver Cirrhosis",
+      "authors": "Fadlallah H, El Masri D, Bahmad HF, Abou-Kheir W, El Masri J",
+      "journal": "Med Sci (Basel)",
+      "year": 2025,
+      "details": "13(1):13",
+      "doi": "10.3390/medsci13010013",
+      "pmcid": "PMC11843904",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2025-02-21"
+    },
+    {
+      "pmid": "39551911",
+      "title": "ONC206, an imipridone derivative, demonstrates anti-colorectal cancer activity against stem/progenitor cells in 3D cell cultures and in patient-derived organoids",
+      "authors": "Monzer A, Ghamlouche F, Wakimian K, Ballout F, Al Bitar S, Yehya A, Kanso M, Saheb N, Tawil A, Doughan S, Hussein M, Mukherji D, Faraj W, Allen JE, Prabhu VV, Abou-Antoun T, Gali-Muhtasib H, Abou-Kheir W",
+      "journal": "Pharmacol Rep",
+      "year": 2025,
+      "details": "77(1):229-246",
+      "doi": "10.1007/s43440-024-00676-4",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "csc",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2024-11-17"
+    },
+    {
+      "pmid": "39452071",
+      "title": "Contemporary Update on Clinical and Experimental Prostate Cancer Biomarkers: A Multi-Omics-Focused Approach to Detection and Risk Stratification",
+      "authors": "Hachem S, Yehya A, El Masri J, Mavingire N, Johnson JR, Dwead AM, Kattour N, Bouchi Y, Kobeissy F, Rais-Bahrami S, Mechref Y, Abou-Kheir W, Woods-Burnham L",
+      "journal": "Biology (Basel)",
+      "year": 2024,
+      "details": "13(10):762",
+      "doi": "10.3390/biology13100762",
+      "pmcid": "PMC11504278",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2024-10-25"
+    },
+    {
+      "pmid": "39351451",
+      "title": "Colorectal cancer: Recent advances in management and treatment",
+      "authors": "Fadlallah H, El Masri J, Fakhereddine H, Youssef J, Chemaly C, Doughan S, Abou-Kheir W",
+      "journal": "World J Clin Oncol",
+      "year": 2024,
+      "details": "15(9):1136-1156",
+      "doi": "10.5306/wjco.v15.i9.1136",
+      "pmcid": "PMC11438855",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2024-10-01"
+    },
+    {
+      "pmid": "39275253",
+      "title": "Vitamin D Deficiency Does Not Affect Cognition and Neurogenesis in Adult C57Bl/6 Mice",
+      "authors": "Doumit M, El-Mallah C, El-Makkawi A, Obeid O, Kobeissy F, Darwish H, Abou-Kheir W",
+      "journal": "Nutrients",
+      "year": 2024,
+      "details": "16(17):2938",
+      "doi": "10.3390/nu16172938",
+      "pmcid": "PMC11396937",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2024-09-14"
+    },
+    {
+      "pmid": "39273075",
+      "title": "Adipose-Derived Stem Cell Therapy in Spinal Cord Injury",
+      "authors": "El Masri J, Fadlallah H, Al Sabsabi R, Afyouni A, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Cells",
+      "year": 2024,
+      "details": "13(17):1505",
+      "doi": "10.3390/cells13171505",
+      "pmcid": "PMC11394073",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2024-09-14"
+    },
+    {
+      "pmid": "39272826",
+      "title": "Impaired DNA Double-Strand Break Repair in Irradiated Sheep Lung Fibroblasts: Late Effects of Previous Irradiation of the Spinal Thecal Sac",
+      "authors": "Youssef B, Feghaly C, Al Choboq J, Bou-Gharios J, Challita R, Azzi J, Bou Hadir H, Abi Antoun F, Araji T, Taddei PJ, Geara F, Sfeir P, Jurjus A, Abou-Kheir W, Bodgi L",
+      "journal": "Cancers (Basel)",
+      "year": 2024,
+      "details": "16(17):2968",
+      "doi": "10.3390/cancers16172968",
+      "pmcid": "PMC11394103",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2024-09-14"
+    },
+    {
+      "pmid": "39175775",
+      "title": "WNT1-inducible signaling pathway protein 1 activation through C-X-C motif chemokine ligand 5/C-X-C chemokine receptor type 2/leukemia inhibitory factor/leukemia inhibitory factor receptor signaling promotes immunosuppression and neuroendocrine differentiation in prostate cancer",
+      "authors": "Tsui KH, Liu CL, Yeh HL, Liu MK, Li CH, Chen WH, Jiang KC, Li HR, Thuy Dung PV, Hsiao M, Abou-Kheir W, Liu YN",
+      "journal": "iScience",
+      "year": 2024,
+      "details": "27(8):110562",
+      "doi": "10.1016/j.isci.2024.110562",
+      "pmcid": "PMC11338985",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2024-08-23"
+    },
+    {
+      "pmid": "38817332",
+      "title": "Cardiac differentiation is modulated by anti-apoptotic signals in murine embryonic stem cells",
+      "authors": "Yehya A, Azar J, Al-Fares M, Boeuf H, Abou-Kheir W, Zeineddine D, Hadadeh O",
+      "journal": "World J Stem Cells",
+      "year": 2024,
+      "details": "16(5):551-559",
+      "doi": "10.4252/wjsc.v16.i5.551",
+      "pmcid": "PMC11135258",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2024-05-31"
+    },
+    {
+      "pmid": "38672620",
+      "title": "From Diabetes to Oncology: Glucagon-like Peptide-1 (GLP-1) Receptor Agonist's Dual Role in Prostate Cancer",
+      "authors": "Alhajahjeh A, Al-Faouri R, Bahmad HF, Bader T, Dobbs RW, Abdulelah AA, Abou-Kheir W, Davicioni E, Lee DI, Shahait M",
+      "journal": "Cancers (Basel)",
+      "year": 2024,
+      "details": "16(8):1538",
+      "doi": "10.3390/cancers16081538",
+      "pmcid": "PMC11048615",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2024-04-27"
+    },
+    {
+      "pmid": "38610952",
+      "title": "Experimental and Computational Analysis of High-Intensity Focused Ultrasound Thermal Ablation in Breast Cancer Cells: Monolayers vs. Spheroids",
+      "authors": "Badawe HM, Harouz JP, Raad P, Abu K, Freije A, Ghali K, Abou-Kheir W, Khraiche ML",
+      "journal": "Cancers (Basel)",
+      "year": 2024,
+      "details": "16(7):1274",
+      "doi": "10.3390/cancers16071274",
+      "pmcid": "PMC11010989",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "cancers"
+      ],
+      "sort": "2024-04-13"
+    },
+    {
+      "pmid": "38478341",
+      "title": "Prostate Cancer Organoids for Tumor Modeling and Drug Screening",
+      "authors": "Yehya A, Ghamlouche F, Hachem S, Abou-Kheir W",
+      "journal": "Methods Mol Biol",
+      "year": 2024,
+      "details": "2777:135-144",
+      "doi": "10.1007/978-1-0716-3730-2_10",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "prostate"
+      ],
+      "sort": "2024-03-13"
+    },
+    {
+      "pmid": "38478338",
+      "title": "In Vitro Tumorigenic Assay: A Tumor Sphere Assay for Cancer Stem Cells",
+      "authors": "Yehya A, Bahmad H, Abou-Kheir W",
+      "journal": "Methods Mol Biol",
+      "year": 2024,
+      "details": "2777:91-98",
+      "doi": "10.1007/978-1-0716-3730-2_7",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "csc"
+      ],
+      "sort": "2024-03-13"
+    },
+    {
+      "pmid": "38381121",
+      "title": "Immunosuppressive role of BDNF in therapy-induced neuroendocrine prostate cancer",
+      "authors": "Liu YN, Chen WY, Liu MK, Yeh HL, Chen WH, Jiang KC, Li HR, Chen ZQ, Wang WH, Abou-Kheir W, Wen YC",
+      "journal": "Mol Oncol",
+      "year": 2024,
+      "details": "18(6):1665-1686",
+      "doi": "10.1002/1878-0261.13614",
+      "pmcid": "PMC11161734",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2024-02-21"
+    },
+    {
+      "pmid": "38230917",
+      "title": "Single-cell fluid-based force spectroscopy reveals near lipid size nano-topography effects on neural cell adhesion",
+      "authors": "Habli Z, Lahoud R, Zantout A, Abou-Kheir W, Khraiche ML",
+      "journal": "Lab Chip",
+      "year": 2024,
+      "details": "24(4):707-718",
+      "doi": "10.1039/d3lc00984j",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2024-01-17"
+    },
+    {
+      "pmid": "38151641",
+      "title": "Effect of bisphosphonates and statins on the in vitro radiosensitivity of breast cancer cell lines",
+      "authors": "Bodgi L, Bou-Gharios J, Azzi J, Challita R, Feghaly C, Baalbaki K, Kharroubi H, Chhade F, Geara F, Abou-Kheir W, Ayoub Z",
+      "journal": "Pharmacol Rep",
+      "year": 2024,
+      "details": "76(1):171-184",
+      "doi": "10.1007/s43440-023-00560-7",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2023-12-27"
+    },
+    {
+      "pmid": "38084675",
+      "title": "Periprostatic adipose tissue thromboinflammation triggers prostatic neoplasia in early metabolic impairment: Interruption by rivaroxaban",
+      "authors": "AlZaim I, El-Nikhely N, Al-Saidi A, Mougharbil N, Darwiche N, Abou-Kheir W, El-Yazbi AF",
+      "journal": "Life Sci",
+      "year": 2023,
+      "details": "334:122225",
+      "doi": "10.1016/j.lfs.2023.122225",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2023-12-12"
+    },
+    {
+      "pmid": "37342220",
+      "title": "Tissue-specific cancer stem/progenitor cells: Therapeutic implications",
+      "authors": "Yehya A, Youssef J, Hachem S, Ismael J, Abou-Kheir W",
+      "journal": "World J Stem Cells",
+      "year": 2023,
+      "details": "15(5):323-341",
+      "doi": "10.4252/wjsc.v15.i5.323",
+      "pmcid": "PMC10277968",
+      "type": "article",
+      "topics": [
+        "csc",
+        "therapeutics"
+      ],
+      "sort": "2023-06-21"
+    },
+    {
+      "pmid": "37190236",
+      "title": "Epithelial-to-Mesenchymal Transition-Related Markers in Prostate Cancer: From Bench to Bedside",
+      "authors": "Gogola S, Rejzer M, Bahmad HF, Abou-Kheir W, Omarzai Y, Poppiti R",
+      "journal": "Cancers (Basel)",
+      "year": 2023,
+      "details": "15(8):2309",
+      "doi": "10.3390/cancers15082309",
+      "pmcid": "PMC10136789",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2023-05-16"
+    },
+    {
+      "pmid": "36998426",
+      "title": "Molecular mechanisms targeting drug-resistance and metastasis in colorectal cancer: Updates and beyond",
+      "authors": "Al Bitar S, El-Sabban M, Doughan S, Abou-Kheir W",
+      "journal": "World J Gastroenterol",
+      "year": 2023,
+      "details": "29(9):1395-1426",
+      "doi": "10.3748/wjg.v29.i9.1395",
+      "pmcid": "PMC10044855",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2023-03-31"
+    },
+    {
+      "pmid": "36921275",
+      "title": "Inclusion of Nitrofurantoin into the Realm of Cancer Chemotherapy via Biology-Oriented Synthesis and Drug Repurposing",
+      "authors": "Elzahhar PA, Nematalla HA, Al-Koussa H, Abrahamian C, El-Yazbi AF, Bodgi L, Bou-Gharios J, Azzi J, Al Choboq J, Labib HF, Kheir WA, Abu-Serie MM, Elrewiny MA, El-Yazbi AF, Belal ASF",
+      "journal": "J Med Chem",
+      "year": 2023,
+      "details": "66(7):4565-4587",
+      "doi": "10.1021/acs.jmedchem.2c01408",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "therapeutics"
+      ],
+      "sort": "2023-03-15"
+    },
+    {
+      "pmid": "36608541",
+      "title": "MicroRNAs as clinical tools for diagnosis, prognosis, and therapy in prostate cancer",
+      "authors": "Ghamlouche F, Yehya A, Zeid Y, Fakhereddine H, Fawaz J, Liu YN, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Transl Oncol",
+      "year": 2023,
+      "details": "28:101613",
+      "doi": "10.1016/j.tranon.2022.101613",
+      "pmcid": "PMC9827391",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2023-01-06"
+    },
+    {
+      "pmid": "36580747",
+      "title": "Investigating the possible mechanisms of autonomic dysfunction post-COVID-19",
+      "authors": "Jammoul M, Naddour J, Madi A, Reslan MA, Hatoum F, Zeineddine J, Abou-Kheir W, Lawand N",
+      "journal": "Auton Neurosci",
+      "year": 2023,
+      "details": "245:103071",
+      "doi": "10.1016/j.autneu.2022.103071",
+      "pmcid": "PMC9789535",
+      "type": "article",
+      "topics": [
+        "neuro"
+      ],
+      "sort": "2022-12-29"
+    },
+    {
+      "pmid": "36359809",
+      "title": "Sustained Activation of the Anterior Thalamic Neurons with Low Doses of Kainic Acid Boosts Hippocampal Neurogenesis",
+      "authors": "Chamaa F, Darwish B, Arnaout R, Nahas Z, Al-Chaer ED, Saadé NE, Abou-Kheir W",
+      "journal": "Cells",
+      "year": 2022,
+      "details": "11(21):3413",
+      "doi": "10.3390/cells11213413",
+      "pmcid": "PMC9655699",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2022-11-11"
+    },
+    {
+      "pmid": "36176747",
+      "title": "Drug resistance in metastatic castration-resistant prostate cancer: an update on the status quo",
+      "authors": "Yehya A, Ghamlouche F, Zahwe A, Zeid Y, Wakimian K, Mukherji D, Abou-Kheir W",
+      "journal": "Cancer Drug Resist",
+      "year": 2022,
+      "details": "5(3):667-690",
+      "doi": "10.20517/cdr.2022.15",
+      "pmcid": "PMC9511807",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2022-09-30"
+    },
+    {
+      "pmid": "36156922",
+      "title": "Novel therapeutic diiminoquinone exhibits anticancer effects on human colorectal cancer cells in two-dimensional and three-dimensional in vitro models",
+      "authors": "Monzer A, Wakimian K, Ballout F, Al Bitar S, Yehya A, Kanso M, Saheb N, Tawil A, Doughan S, Hussein M, Mukherji D, Faraj W, Gali-Muhtasib H, Abou-Kheir W",
+      "journal": "World J Gastroenterol",
+      "year": 2022,
+      "details": "28(33):4787-4811",
+      "doi": "10.3748/wjg.v28.i33.4787",
+      "pmcid": "PMC9476858",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2022-09-26"
+    },
+    {
+      "pmid": "35741412",
+      "title": "Urinary Tract Infections Impair Adult Hippocampal Neurogenesis",
+      "authors": "Darwish B, Chamaa F, Awada B, Lawand N, Saadé NE, Abou Fayad AG, Abou-Kheir W",
+      "journal": "Biology (Basel)",
+      "year": 2022,
+      "details": "11(6):891",
+      "doi": "10.3390/biology11060891",
+      "pmcid": "PMC9220213",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2022-06-24"
+    },
+    {
+      "pmid": "35326517",
+      "title": "Thymoquinone Radiosensitizes Human Colorectal Cancer Cells in 2D and 3D Culture Models",
+      "authors": "Al Bitar S, Ballout F, Monzer A, Kanso M, Saheb N, Mukherji D, Faraj W, Tawil A, Doughan S, Hussein M, Abou-Kheir W, Gali-Muhtasib H",
+      "journal": "Cancers (Basel)",
+      "year": 2022,
+      "details": "14(6):1363",
+      "doi": "10.3390/cancers14061363",
+      "pmcid": "PMC8945905",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2022-03-25"
+    },
+    {
+      "pmid": "35306527",
+      "title": "Pyruvate kinase L/R links metabolism dysfunction to neuroendocrine differentiation of prostate cancer by ZBTB10 deficiency",
+      "authors": "Wen YC, Chen WY, Tram VTN, Yeh HL, Chen WH, Jiang KC, Abou-Kheir W, Huang J, Hsiao M, Liu YN",
+      "journal": "Cell Death Dis",
+      "year": 2022,
+      "details": "13(3):252",
+      "doi": "10.1038/s41419-022-04694-z",
+      "pmcid": "PMC8934352",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2022-03-20"
+    },
+    {
+      "pmid": "35225948",
+      "title": "Overcoming Drug Resistance in Advanced Prostate Cancer by Drug Repurposing",
+      "authors": "Bahmad HF, Demus T, Moubarak MM, Daher D, Alvarez Moreno JC, Polit F, Lopez O, Merhe A, Abou-Kheir W, Nieder AM, Poppiti R, Omarzai Y",
+      "journal": "Med Sci (Basel)",
+      "year": 2022,
+      "details": "10(1):15",
+      "doi": "10.3390/medsci10010015",
+      "pmcid": "PMC8883996",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2022-02-28"
+    },
+    {
+      "pmid": "34820005",
+      "title": "Establishment and characterization of prostate organoids from treatment-naïve patients with prostate cancer",
+      "authors": "Cheaito K, Bahmad HF, Hadadeh O, Msheik H, Monzer A, Ballout F, Dagher C, Telvizian T, Saheb N, Tawil A, El-Sabban M, El-Hajj A, Mukherji D, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Oncol Lett",
+      "year": 2022,
+      "details": "23(1):6",
+      "doi": "10.3892/ol.2021.13124",
+      "pmcid": "PMC8607232",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "prostate"
+      ],
+      "sort": "2021-11-25"
+    },
+    {
+      "pmid": "34567429",
+      "title": "Central nervous system tumors and three-dimensional cell biology: Current and future perspectives in modeling",
+      "authors": "Abou-Mrad Z, Bou Gharios J, Moubarak MM, Chalhoub A, Moussalem C, Bahmad HF, Abou-Kheir W",
+      "journal": "World J Stem Cells",
+      "year": 2021,
+      "details": "13(8):1112-1126",
+      "doi": "10.4252/wjsc.v13.i8.1112",
+      "pmcid": "PMC8422930",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "csc",
+        "neurooncology",
+        "cancers"
+      ],
+      "sort": "2021-09-27"
+    },
+    {
+      "pmid": "34422720",
+      "title": "A Novel Therapeutic Mechanism of Imipridones ONC201/ONC206 in MYCN-Amplified Neuroblastoma Cells via Differential Expression of Tumorigenic Proteins",
+      "authors": "El-Soussi S, Hanna R, Semaan H, Khater AR, Abdallah J, Abou-Kheir W, Abou-Antoun T",
+      "journal": "Front Pediatr",
+      "year": 2021,
+      "details": "9:693145",
+      "doi": "10.3389/fped.2021.693145",
+      "pmcid": "PMC8373200",
+      "type": "article",
+      "topics": [
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2021-08-23"
+    },
+    {
+      "pmid": "34299287",
+      "title": "The Use of Stem Cell-Derived Organoids in Disease Modeling: An Update",
+      "authors": "Azar J, Bahmad HF, Daher D, Moubarak MM, Hadadeh O, Monzer A, Al Bitar S, Jamal M, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Int J Mol Sci",
+      "year": 2021,
+      "details": "22(14):7667",
+      "doi": "10.3390/ijms22147667",
+      "pmcid": "PMC8303386",
+      "type": "article",
+      "topics": [
+        "organoids"
+      ],
+      "sort": "2021-07-24"
+    },
+    {
+      "pmid": "33841508",
+      "title": "Tumor Microenvironment in Prostate Cancer: Toward Identification of Novel Molecular Biomarkers for Diagnosis, Prognosis, and Therapy Development",
+      "authors": "Bahmad HF, Jalloul M, Azar J, Moubarak MM, Samad TA, Mukherji D, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Front Genet",
+      "year": 2021,
+      "details": "12:652747",
+      "doi": "10.3389/fgene.2021.652747",
+      "pmcid": "PMC8033163",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2021-04-12"
+    },
+    {
+      "pmid": "33683695",
+      "title": "Whole Transcriptome Sequencing Analysis of Cancer Stem/Progenitor Cells Obtained from Mouse Lung Adenocarcinomas",
+      "authors": "Sinjab A, Daouk R, Abou-Kheir W, Kadara H",
+      "journal": "Methods Mol Biol",
+      "year": 2021,
+      "details": "2279:187-198",
+      "doi": "10.1007/978-1-0716-1278-1_15",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "csc",
+        "cancers"
+      ],
+      "sort": "2021-03-08"
+    },
+    {
+      "pmid": "33538412",
+      "title": "Triple-marker immunohistochemical assessment of muscle-invasive bladder cancer: Is there prognostic significance?",
+      "authors": "Labban M, Najdi J, Mukherji D, Abou-Kheir W, Tabbarah A, El-Hajj A",
+      "journal": "Cancer Rep (Hoboken)",
+      "year": 2021,
+      "details": "4(2):e1313",
+      "doi": "10.1002/cnr2.1313",
+      "pmcid": "PMC8451379",
+      "type": "article",
+      "topics": [
+        "gu"
+      ],
+      "sort": "2021-02-04"
+    },
+    {
+      "pmid": "33441072",
+      "title": "PTSD in the COVID-19 Era",
+      "authors": "Chamaa F, Bahmad HF, Darwish B, Kobeissi JM, Hoballah M, Nassif SB, Ghandour Y, Saliba JP, Lawand N, Abou-Kheir W",
+      "journal": "Curr Neuropharmacol",
+      "year": 2021,
+      "details": "19(12):2164-2179",
+      "doi": "10.2174/1570159X19666210113152954",
+      "pmcid": "PMC9185760",
+      "type": "article",
+      "topics": [
+        "neuro"
+      ],
+      "sort": "2021-01-14"
+    },
+    {
+      "pmid": "33420961",
+      "title": "StarD13 differentially regulates migration and invasion in prostate cancer cells",
+      "authors": "Jaafar L, Fakhoury I, Saab S, El-Hajjar L, Abou-Kheir W, El-Sibai M",
+      "journal": "Hum Cell",
+      "year": 2021,
+      "details": "34(2):607-623",
+      "doi": "10.1007/s13577-020-00479-8",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2021-01-09"
+    },
+    {
+      "pmid": "33417991",
+      "title": "Long-term stimulation of the anteromedial thalamus increases hippocampal neurogenesis and spatial reference memory in adult rats",
+      "authors": "Chamaa F, Darwish B, Nahas Z, Al-Chaer ED, Saadé NE, Abou-Kheir W",
+      "journal": "Behav Brain Res",
+      "year": 2021,
+      "details": "402:113114",
+      "doi": "10.1016/j.bbr.2021.113114",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2021-01-08"
+    },
+    {
+      "pmid": "33259048",
+      "title": "Correction to: The potential use of tideglusib as an adjuvant radio-therapeutic treatment for glioblastoma multiforme cancer stem-like cells",
+      "authors": "Bou-Gharios J, Assi S, Bahmad HF, Kharroubi H, Araji T, Chalhoub RM, Ballout F, Harati H, Fares Y, Abou-Kheir W",
+      "journal": "Pharmacol Rep",
+      "year": 2021,
+      "details": "73(1):316",
+      "doi": "10.1007/s43440-020-00194-z",
+      "pmcid": "",
+      "type": "correction",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-12-01"
+    },
+    {
+      "pmid": "33195205",
+      "title": "Epidermal Growth Factor Is Essential for the Maintenance of Novel Prostate Epithelial Cells Isolated From Patient-Derived Organoids",
+      "authors": "Cheaito K, Bahmad HF, Jalloul H, Hadadeh O, Msheik H, El-Hajj A, Mukherji D, Al-Sayegh M, Abou-Kheir W",
+      "journal": "Front Cell Dev Biol",
+      "year": 2020,
+      "details": "8:571677",
+      "doi": "10.3389/fcell.2020.571677",
+      "pmcid": "PMC7658326",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "prostate"
+      ],
+      "sort": "2020-11-16"
+    },
+    {
+      "pmid": "33184378",
+      "title": "Acetylsalicylic acid and salicylic acid present anticancer properties against melanoma by promoting nitric oxide-dependent endoplasmic reticulum stress and apoptosis",
+      "authors": "Ausina P, Branco JR, Demaria TM, Esteves AM, Leandro JGB, Ochioni AC, Mendonça APM, Palhano FL, Oliveira MF, Abou-Kheir W, Sola-Penna M, Zancan P",
+      "journal": "Sci Rep",
+      "year": 2020,
+      "details": "10(1):19617",
+      "doi": "10.1038/s41598-020-76824-6",
+      "pmcid": "PMC7665072",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-11-13"
+    },
+    {
+      "pmid": "33140310",
+      "title": "The potential use of tideglusib as an adjuvant radio-therapeutic treatment for glioblastoma multiforme cancer stem-like cells",
+      "authors": "Bou-Gharios J, Assi S, Bahmad HF, Kharroubi H, Araji T, Chalhoub RM, Ballout F, Harati H, Fares Y, Abou-Kheir W",
+      "journal": "Pharmacol Rep",
+      "year": 2021,
+      "details": "73(1):227-239",
+      "doi": "10.1007/s43440-020-00180-5",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-11-03"
+    },
+    {
+      "pmid": "33092038",
+      "title": "Modeling Adipogenesis: Current and Future Perspective",
+      "authors": "Bahmad HF, Daouk R, Azar J, Sapudom J, Teo JCM, Abou-Kheir W, Al-Sayegh M",
+      "journal": "Cells",
+      "year": 2020,
+      "details": "9(10):2326",
+      "doi": "10.3390/cells9102326",
+      "pmcid": "PMC7590203",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2020-10-23"
+    },
+    {
+      "pmid": "33030673",
+      "title": "Tideglusib attenuates growth of neuroblastoma cancer stem/progenitor cells in vitro and in vivo by specifically targeting GSK-3β",
+      "authors": "Bahmad HF, Chalhoub RM, Harati H, Bou-Gharios J, Assi S, Ballout F, Monzer A, Msheik H, Araji T, Elajami MK, Ghanem P, Chamaa F, Kadara H, Abou-Antoun T, Daoud G, Fares Y, Abou-Kheir W",
+      "journal": "Pharmacol Rep",
+      "year": 2021,
+      "details": "73(1):211-226",
+      "doi": "10.1007/s43440-020-00162-7",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-10-08"
+    },
+    {
+      "pmid": "33015555",
+      "title": "Cancerona: Challenges of Cancer Management in Times of COVID-19 Pandemic",
+      "authors": "Ballout F, Daouk R, Azar J, Timonian M, Araji T, Bahmad HF, Abou-Kheir W",
+      "journal": "SN Compr Clin Med",
+      "year": 2020,
+      "details": "2(11):2005-2014",
+      "doi": "10.1007/s42399-020-00549-w",
+      "pmcid": "PMC7524598",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2020-10-05"
+    },
+    {
+      "pmid": "32867660",
+      "title": "Stem Cells: In Sickness and in Health",
+      "authors": "Bahmad HF, Elajami MK, Daouk R, Jalloul H, Darwish B, Chalhoub RM, Assi S, Chamaa F, Abou-Kheir W",
+      "journal": "Curr Stem Cell Res Ther",
+      "year": 2021,
+      "details": "16(3):262-276",
+      "doi": "10.2174/1574888X15999200831160710",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2020-09-02"
+    },
+    {
+      "pmid": "32867639",
+      "title": "The Emerging Role of COX-2, 15-LOX and PPARγ in Metabolic Diseases and Cancer: An Introduction to Novel Multi-target Directed Ligands (MTDLs)",
+      "authors": "Alaaeddine RA, Elzahhar PA, AlZaim I, Abou-Kheir W, Belal ASF, El-Yazbi AF",
+      "journal": "Curr Med Chem",
+      "year": 2021,
+      "details": "28(11):2260-2300",
+      "doi": "10.2174/0929867327999200820173853",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2020-09-02"
+    },
+    {
+      "pmid": "32821342",
+      "title": "Thymoquinone induces apoptosis and DNA damage in 5-Fluorouracil-resistant colorectal cancer stem/progenitor cells",
+      "authors": "Ballout F, Monzer A, Fatfat M, Ouweini HE, Jaffa MA, Abdel-Samad R, Darwiche N, Abou-Kheir W, Gali-Muhtasib H",
+      "journal": "Oncotarget",
+      "year": 2020,
+      "details": "11(31):2959-2972",
+      "doi": "10.18632/oncotarget.27426",
+      "pmcid": "PMC7415406",
+      "type": "article",
+      "topics": [
+        "csc",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-08-22"
+    },
+    {
+      "pmid": "32808889",
+      "title": "Gadolinium Retention in the Central and Peripheral Nervous System: Implications for Pain, Cognition, and Neurogenesis",
+      "authors": "Alkhunizi SM, Fakhoury M, Abou-Kheir W, Lawand N",
+      "journal": "Radiology",
+      "year": 2020,
+      "details": "297(2):407-416",
+      "doi": "10.1148/radiol.2020192645",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2020-08-19"
+    },
+    {
+      "pmid": "32790767",
+      "title": "Genome-wide gene expression analysis of a murine model of prostate cancer progression: Deciphering the roles of IL-6 and p38 MAPK as potential therapeutic targets",
+      "authors": "Daouk R, Bahmad HF, Saleh E, Monzer A, Ballout F, Kadara H, Abou-Kheir W",
+      "journal": "PLoS One",
+      "year": 2020,
+      "details": "15(8):e0237442",
+      "doi": "10.1371/journal.pone.0237442",
+      "pmcid": "PMC7425932",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2020-08-14"
+    },
+    {
+      "pmid": "32784957",
+      "title": "Protein Expression Analysis of an In Vitro Murine Model of Prostate Cancer Progression: Towards Identification of High-Potential Therapeutic Targets",
+      "authors": "Bahmad HF, Peng W, Zhu R, Ballout F, Monzer A, Elajami MK, Kobeissy F, Abou-Kheir W, Mechref Y",
+      "journal": "J Pers Med",
+      "year": 2020,
+      "details": "10(3):83",
+      "doi": "10.3390/jpm10030083",
+      "pmcid": "PMC7565308",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2020-08-14"
+    },
+    {
+      "pmid": "32709978",
+      "title": "Crosstalk between COVID-19 and prostate cancer",
+      "authors": "Bahmad HF, Abou-Kheir W",
+      "journal": "Prostate Cancer Prostatic Dis",
+      "year": 2020,
+      "details": "23(4):561-563",
+      "doi": "10.1038/s41391-020-0262-y",
+      "pmcid": "PMC7378980",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2020-07-26"
+    },
+    {
+      "pmid": "32503108",
+      "title": "Anti-Tumor Effects of Biomimetic Sulfated Glycosaminoglycans on Lung Adenocarcinoma Cells in 2D and 3D In Vitro Models",
+      "authors": "Al Matari N, Deeb G, Mshiek H, Sinjab A, Kadara H, Abou-Kheir W, Mhanna R",
+      "journal": "Molecules",
+      "year": 2020,
+      "details": "25(11):2595",
+      "doi": "10.3390/molecules25112595",
+      "pmcid": "PMC7321182",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-06-07"
+    },
+    {
+      "pmid": "32395647",
+      "title": "CYR61/CCN1 expression in resected pancreatic ductal adenocarcinoma: A retrospective pilot study of the interaction between the tumors and their surrounding microenvironment",
+      "authors": "Abou-Kheir W, Mukherji D, Hadadeh O, Saleh E, Bahmad HF, Kanso M, Khalifeh M, Shamseddine A, Tamraz S, Jaafar R, Dagher C, Khalifeh I, Faraj W",
+      "journal": "Heliyon",
+      "year": 2020,
+      "details": "6(5):e03842",
+      "doi": "10.1016/j.heliyon.2020.e03842",
+      "pmcid": "PMC7205742",
+      "type": "article",
+      "topics": [
+        "cancers"
+      ],
+      "sort": "2020-05-13"
+    },
+    {
+      "pmid": "32056558",
+      "title": "HTR-8/SVneo: A model for epithelial to mesenchymal transition in the human placenta",
+      "authors": "Msheik H, Azar J, El Sabeh M, Abou-Kheir W, Daoud G",
+      "journal": "Placenta",
+      "year": 2020,
+      "details": "90:90-97",
+      "doi": "10.1016/j.placenta.2019.12.013",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2020-02-15"
+    },
+    {
+      "pmid": "31919619",
+      "title": "Drug repurposing towards targeting cancer stem cells in pediatric brain tumors",
+      "authors": "Bahmad HF, Elajami MK, El Zarif T, Bou-Gharios J, Abou-Antoun T, Abou-Kheir W",
+      "journal": "Cancer Metastasis Rev",
+      "year": 2020,
+      "details": "39(1):127-148",
+      "doi": "10.1007/s10555-019-09840-2",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2020-01-11"
+    },
+    {
+      "pmid": "31707631",
+      "title": "Role of MicroRNAs in Anesthesia-Induced Neurotoxicity in Animal Models and Neuronal Cultures: a Systematic Review",
+      "authors": "Bahmad HF, Darwish B, Dargham KB, Machmouchi R, Dargham BB, Osman M, Khechen ZA, El Housheimi N, Abou-Kheir W, Chamaa F",
+      "journal": "Neurotox Res",
+      "year": 2020,
+      "details": "37(3):479-490",
+      "doi": "10.1007/s12640-019-00135-6",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2019-11-11"
+    },
+    {
+      "pmid": "31407727",
+      "title": "The sulfation of biomimetic glycosaminoglycan substrates controls binding of growth factors and subsequent neural and glial cell growth",
+      "authors": "Malaeb W, Bahmad HF, Abou-Kheir W, Mhanna R",
+      "journal": "Biomater Sci",
+      "year": 2019,
+      "details": "7(10):4283-4298",
+      "doi": "10.1039/c9bm00964g",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurorepair",
+        "therapeutics"
+      ],
+      "sort": "2019-08-14"
+    },
+    {
+      "pmid": "31333405",
+      "title": "Intranigral Injection of Endotoxin Suppresses Proliferation of Hippocampal Progenitor Cells",
+      "authors": "Darwish B, Chamaa F, Al-Chaer ED, Saadé NE, Abou-Kheir W",
+      "journal": "Front Neurosci",
+      "year": 2019,
+      "details": "13:687",
+      "doi": "10.3389/fnins.2019.00687",
+      "pmcid": "PMC6616074",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2019-07-24"
+    },
+    {
+      "pmid": "31213988",
+      "title": "Drosophila Tet Is Expressed in Midline Glia and Is Required for Proper Axonal Development",
+      "authors": "Ismail JN, Badini S, Frey F, Abou-Kheir W, Shirinian M",
+      "journal": "Front Cell Neurosci",
+      "year": 2019,
+      "details": "13:252",
+      "doi": "10.3389/fncel.2019.00252",
+      "pmcid": "PMC6558204",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2019-06-20"
+    },
+    {
+      "pmid": "31191243",
+      "title": "Cancer Stem Cells in Neuroblastoma: Expanding the Therapeutic Frontier",
+      "authors": "Bahmad HF, Chamaa F, Assi S, Chalhoub RM, Abou-Antoun T, Abou-Kheir W",
+      "journal": "Front Mol Neurosci",
+      "year": 2019,
+      "details": "12:131",
+      "doi": "10.3389/fnmol.2019.00131",
+      "pmcid": "PMC6546065",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2019-06-14"
+    },
+    {
+      "pmid": "31001473",
+      "title": "Genome-Wide and Phenotypic Evaluation of Stem Cell Progenitors Derived From Gprc5a-Deficient Murine Lung Adenocarcinoma With Somatic Kras Mutations",
+      "authors": "Daouk R, Hassane M, Bahmad HF, Sinjab A, Fujimoto J, Abou-Kheir W, Kadara H",
+      "journal": "Front Oncol",
+      "year": 2019,
+      "details": "9:207",
+      "doi": "10.3389/fonc.2019.00207",
+      "pmcid": "PMC6454871",
+      "type": "article",
+      "topics": [
+        "csc",
+        "cancers"
+      ],
+      "sort": "2019-04-20"
+    },
+    {
+      "pmid": "30941305",
+      "title": "Assessing Radiosensitivity of Bladder Cancer in vitro: A 2D vs. 3D Approach",
+      "authors": "Bodgi L, Bahmad HF, Araji T, Al Choboq J, Bou-Gharios J, Cheaito K, Zeidan YH, Eid T, Geara F, Abou-Kheir W",
+      "journal": "Front Oncol",
+      "year": 2019,
+      "details": "9:153",
+      "doi": "10.3389/fonc.2019.00153",
+      "pmcid": "PMC6433750",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "gu",
+        "therapeutics"
+      ],
+      "sort": "2019-04-04"
+    },
+    {
+      "pmid": "30915272",
+      "title": "EMT Markers in Locally-Advanced Prostate Cancer: Predicting Recurrence?",
+      "authors": "Cheaito KA, Bahmad HF, Hadadeh O, Saleh E, Dagher C, Hammoud MS, Shahait M, Mrad ZA, Nassif S, Tawil A, Bulbul M, Khauli R, Wazzan W, Nasr R, Shamseddine A, Temraz S, El-Sabban ME, El-Hajj A, Mukherji D, Abou-Kheir W",
+      "journal": "Front Oncol",
+      "year": 2019,
+      "details": "9:131",
+      "doi": "10.3389/fonc.2019.00131",
+      "pmcid": "PMC6421270",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2019-03-28"
+    },
+    {
+      "pmid": "30883933",
+      "title": "The synthetic retinoid ST1926 attenuates prostate cancer growth and potentially targets prostate cancer stem-like cells",
+      "authors": "Bahmad HF, Samman H, Monzer A, Hadadeh O, Cheaito K, Abdel-Samad R, Hayar B, Pisano C, Msheik H, Liu YN, Darwiche N, Abou-Kheir W",
+      "journal": "Mol Carcinog",
+      "year": 2019,
+      "details": "58(7):1208-1220",
+      "doi": "10.1002/mc.23004",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2019-03-19"
+    },
+    {
+      "pmid": "30323898",
+      "title": "The Akt/mTOR pathway in cancer stem/progenitor cells is a potential therapeutic target for glioblastoma and neuroblastoma",
+      "authors": "Bahmad HF, Mouhieddine TH, Chalhoub RM, Assi S, Araji T, Chamaa F, Itani MM, Nokkari A, Kobeissy F, Daoud G, Abou-Kheir W",
+      "journal": "Oncotarget",
+      "year": 2018,
+      "details": "9(71):33549-33561",
+      "doi": "10.18632/oncotarget.26088",
+      "pmcid": "PMC6173359",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2018-10-17"
+    },
+    {
+      "pmid": "30211124",
+      "title": "Sphere-Formation Assay: Three-Dimensional in vitro Culturing of Prostate Cancer Stem/Progenitor Sphere-Forming Cells",
+      "authors": "Bahmad HF, Cheaito K, Chalhoub RM, Hadadeh O, Monzer A, Ballout F, El-Hajj A, Mukherji D, Liu YN, Daoud G, Abou-Kheir W",
+      "journal": "Front Oncol",
+      "year": 2018,
+      "details": "8:347",
+      "doi": "10.3389/fonc.2018.00347",
+      "pmcid": "PMC6121836",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "csc",
+        "prostate"
+      ],
+      "sort": "2018-09-14"
+    },
+    {
+      "pmid": "30190798",
+      "title": "Correction: Loss of EGFR signaling-regulated miR-203 promotes prostate cancer bone metastasis and tyrosine kinase inhibitors resistance",
+      "authors": "Siu MK, Abou-Kheir W, Yin JJ, Chang YS, Barrett B, Suau F, Casey O, Chen WY, Fang L, Hynes P, Hsieh YY, Liu YN, Huang J, Kelly K",
+      "journal": "Oncotarget",
+      "year": 2018,
+      "details": "9(64):32403",
+      "doi": "10.18632/oncotarget.26020",
+      "pmcid": "PMC6122359",
+      "type": "correction",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2018-09-08"
+    },
+    {
+      "pmid": "29922631",
+      "title": "Second primary malignancy after radical prostatectomy in a cohort from the Middle East",
+      "authors": "Shahait M, Mukherji D, Hamieh N, Nassif S, Jabbour M, Khauli R, Bulbul M, Abou Kheir W, El Hajj A",
+      "journal": "Prostate Int",
+      "year": 2018,
+      "details": "6(2):46-49",
+      "doi": "10.1016/j.prnil.2017.09.002",
+      "pmcid": "PMC6004622",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2018-06-21"
+    },
+    {
+      "pmid": "29867368",
+      "title": "Nitrous Oxide Induces Prominent Cell Proliferation in Adult Rat Hippocampal Dentate Gyrus",
+      "authors": "Chamaa F, Bahmad HF, Makkawi AK, Chalhoub RM, Al-Chaer ED, Bikhazi GB, Nahas Z, Abou-Kheir W",
+      "journal": "Front Cell Neurosci",
+      "year": 2018,
+      "details": "12:135",
+      "doi": "10.3389/fncel.2018.00135",
+      "pmcid": "PMC5967150",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2018-06-06"
+    },
+    {
+      "pmid": "29506507",
+      "title": "Ki-67 expression predicts biochemical recurrence after radical prostatectomy in the setting of positive surgical margins",
+      "authors": "Shahait M, Nassif S, Tamim H, Mukherji D, Hijazi M, El Sabban M, Khauli R, Bulbul M, Abou Kheir W, El Hajj A",
+      "journal": "BMC Urol",
+      "year": 2018,
+      "details": "18(1):13",
+      "doi": "10.1186/s12894-018-0330-y",
+      "pmcid": "PMC5838874",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2018-03-07"
+    },
+    {
+      "pmid": "29477409",
+      "title": "Androgen deprivation therapy-induced epithelial-mesenchymal transition of prostate cancer through downregulating SPDEF and activating CCL2",
+      "authors": "Tsai YC, Chen WY, Abou-Kheir W, Zeng T, Yin JJ, Bahmad H, Lee YC, Liu YN",
+      "journal": "Biochim Biophys Acta Mol Basis Dis",
+      "year": 2018,
+      "details": "1864(5 Pt A):1717-1727",
+      "doi": "10.1016/j.bbadis.2018.02.016",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2018-02-26"
+    },
+    {
+      "pmid": "29455655",
+      "title": "Disruption of ETV6 leads to TWIST1-dependent progression and resistance to epidermal growth factor receptor tyrosine kinase inhibitors in prostate cancer",
+      "authors": "Tsai YC, Zeng T, Abou-Kheir W, Yeh HL, Yin JJ, Lee YC, Chen WY, Liu YN",
+      "journal": "Mol Cancer",
+      "year": 2018,
+      "details": "17(1):42",
+      "doi": "10.1186/s12943-018-0785-1",
+      "pmcid": "PMC5817720",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2018-02-20"
+    },
+    {
+      "pmid": "29306407",
+      "title": "Intracerebroventricular injections of endotoxin (ET) reduces hippocampal neurogenesis",
+      "authors": "Chamaa F, Bitar L, Darwish B, Saade NE, Abou-Kheir W",
+      "journal": "J Neuroimmunol",
+      "year": 2018,
+      "details": "315:58-67",
+      "doi": "10.1016/j.jneuroim.2017.12.013",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2018-01-08"
+    },
+    {
+      "pmid": "29126932",
+      "title": "Docosahexaenoic acid (DHA) enhances the therapeutic potential of neonatal neural stem cell transplantation post-Traumatic brain injury",
+      "authors": "Ghazale H, Ramadan N, Mantash S, Zibara K, El-Sitt S, Darwish H, Chamaa F, Boustany RM, Mondello S, Abou-Kheir W, Soueid J, Kobeissy F",
+      "journal": "Behav Brain Res",
+      "year": 2018,
+      "details": "340:1-13",
+      "doi": "10.1016/j.bbr.2017.11.007",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurorepair",
+        "therapeutics"
+      ],
+      "sort": "2017-11-12"
+    },
+    {
+      "pmid": "28377721",
+      "title": "Prostate Cancer and Aspirin Use: Synopsis of the Proposed Molecular Mechanisms",
+      "authors": "Bilani N, Bahmad H, Abou-Kheir W",
+      "journal": "Front Pharmacol",
+      "year": 2017,
+      "details": "8:145",
+      "doi": "10.3389/fphar.2017.00145",
+      "pmcid": "PMC5359278",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2017-04-06"
+    },
+    {
+      "pmid": "28293168",
+      "title": "Modeling Human Neurological and Neurodegenerative Diseases: From Induced Pluripotent Stem Cells to Neuronal Differentiation and Its Applications in Neurotrauma",
+      "authors": "Bahmad H, Hadadeh O, Chamaa F, Cheaito K, Darwish B, Makkawi AK, Abou-Kheir W",
+      "journal": "Front Mol Neurosci",
+      "year": 2017,
+      "details": "10:50",
+      "doi": "10.3389/fnmol.2017.00050",
+      "pmcid": "PMC5329035",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2017-03-16"
+    },
+    {
+      "pmid": "28197071",
+      "title": "Chemosensitivity of U251 Cells to the Co-treatment of D-Penicillamine and Copper: Possible Implications on Wilson Disease Patients",
+      "authors": "Katerji M, Barada K, Jomaa M, Kobeissy F, Makkawi AK, Abou-Kheir W, Usta J",
+      "journal": "Front Mol Neurosci",
+      "year": 2017,
+      "details": "10:10",
+      "doi": "10.3389/fnmol.2017.00010",
+      "pmcid": "PMC5281637",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "neuro"
+      ],
+      "sort": "2017-02-16"
+    },
+    {
+      "pmid": "28161053",
+      "title": "HTR-8/SVneo cell line contains a mixed population of cells",
+      "authors": "Abou-Kheir W, Barrak J, Hadadeh O, Daoud G",
+      "journal": "Placenta",
+      "year": 2017,
+      "details": "50:1-7",
+      "doi": "10.1016/j.placenta.2016.12.007",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2017-02-06"
+    },
+    {
+      "pmid": "27036046",
+      "title": "Primary versus castration-resistant prostate cancer: modeling through novel murine prostate cancer cell lines",
+      "authors": "Daoud G, Monzer A, Bahmad H, Chamaa F, Hamdar L, Mouhieddine TH, Shayya S, Eid A, Kobeissy F, Liu YN, Abou-Kheir W",
+      "journal": "Oncotarget",
+      "year": 2016,
+      "details": "7(20):28961-75",
+      "doi": "10.18632/oncotarget.8436",
+      "pmcid": "PMC5045370",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2016-04-02"
+    },
+    {
+      "pmid": "26635517",
+      "title": "Metformin and Ara-a Effectively Suppress Brain Cancer by Targeting Cancer Stem/Progenitor Cells",
+      "authors": "Mouhieddine TH, Nokkari A, Itani MM, Chamaa F, Bahmad H, Monzer A, El-Merahbi R, Daoud G, Eid A, Kobeissy FH, Abou-Kheir W",
+      "journal": "Front Neurosci",
+      "year": 2015,
+      "details": "9:442",
+      "doi": "10.3389/fnins.2015.00442",
+      "pmcid": "PMC4655242",
+      "type": "article",
+      "topics": [
+        "csc",
+        "neurooncology",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2015-12-05"
+    },
+    {
+      "pmid": "26628377",
+      "title": "Identification of Different Classes of Luminal Progenitor Cells within Prostate Tumors",
+      "authors": "Agarwal S, Hynes PG, Tillman HS, Lake R, Abou-Kheir WG, Fang L, Casey OM, Ameri AH, Martin PL, Yin JJ, Iaquinta PJ, Karthaus WR, Clevers HC, Sawyers CL, Kelly K",
+      "journal": "Cell Rep",
+      "year": 2015,
+      "details": "13(10):2147-58",
+      "doi": "10.1016/j.celrep.2015.10.077",
+      "pmcid": "PMC4840850",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate"
+      ],
+      "sort": "2015-12-03"
+    },
+    {
+      "pmid": "26460201",
+      "title": "Thalamic Stimulation in Awake Rats Induces Neurogenesis in the Hippocampal Formation",
+      "authors": "Chamaa F, Sweidan W, Nahas Z, Saade N, Abou-Kheir W",
+      "journal": "Brain Stimul",
+      "year": 2016,
+      "details": "9(1):101-8",
+      "doi": "10.1016/j.brs.2015.09.006",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "neurogenesis"
+      ],
+      "sort": "2015-10-14"
+    },
+    {
+      "pmid": "26430881",
+      "title": "A Unique Expression of Keratin 14 in a Subset of Trophoblast Cells",
+      "authors": "Abou-Kheir W, Eid A, El-Merahbi R, Assaf R, Daoud G",
+      "journal": "PLoS One",
+      "year": 2015,
+      "details": "10(10):e0139939",
+      "doi": "10.1371/journal.pone.0139939",
+      "pmcid": "PMC4592186",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2015-10-03"
+    },
+    {
+      "pmid": "26288275",
+      "title": "Correction: Characterization of the Kallikrein-Kinin System Post Chemical Neuronal Injury: An In Vitro Biochemical and Neuroproteomics Assessment",
+      "authors": "Nokkari A, Mouhieddine TH, Itani MM, Abou-Kheir W, Daoud G, Zhu R, Mechref Y, Soueid J, Al Hariri M, Mondello S, Jaffa AA, Kobeissy F",
+      "journal": "PLoS One",
+      "year": 2015,
+      "details": "10(8):e0136345",
+      "doi": "10.1371/journal.pone.0136345",
+      "pmcid": "PMC4543601",
+      "type": "correction",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2015-08-20"
+    },
+    {
+      "pmid": "26047500",
+      "title": "Characterization of the Kallikrein-Kinin System Post Chemical Neuronal Injury: An In Vitro Biochemical and Neuroproteomics Assessment",
+      "authors": "Nokkari A, Mouhieddine TH, Itani MM, Abou-Kheir W, Daoud G, Zhu R, Mechref Y, Soueid J, Al Hariri M, Mondello S, Jaffa AA, Kobeissy F",
+      "journal": "PLoS One",
+      "year": 2015,
+      "details": "10(6):e0128601",
+      "doi": "10.1371/journal.pone.0128601",
+      "pmcid": "PMC4457722",
+      "type": "article",
+      "topics": [
+        "neurorepair"
+      ],
+      "sort": "2015-06-06"
+    },
+    {
+      "pmid": "25436980",
+      "title": "MicroRNA-34a regulates WNT/TCF7 signaling and inhibits bone metastasis in Ras-activated prostate cancer",
+      "authors": "Chen WY, Liu SY, Chang YS, Yin JJ, Yeh HL, Mouhieddine TH, Hadadeh O, Abou-Kheir W, Liu YN",
+      "journal": "Oncotarget",
+      "year": 2015,
+      "details": "6(1):441-57",
+      "doi": "10.18632/oncotarget.2690",
+      "pmcid": "PMC4381606",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2014-12-02"
+    },
+    {
+      "pmid": "25380390",
+      "title": "Berberis libanotica Ehrenb extract shows anti-neoplastic effects on prostate cancer stem/progenitor cells",
+      "authors": "El-Merahbi R, Liu YN, Eid A, Daoud G, Hosry L, Monzer A, Mouhieddine TH, Hamade A, Najjar F, Abou-Kheir W",
+      "journal": "PLoS One",
+      "year": 2014,
+      "details": "9(11):e112453",
+      "doi": "10.1371/journal.pone.0112453",
+      "pmcid": "PMC4224486",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2014-11-08"
+    },
+    {
+      "pmid": "25368673",
+      "title": "Colorectal and Prostate Cancer Risk in Diabetes: Metformin, an Actor behind the Scene",
+      "authors": "Anwar MA, Kheir WA, Eid S, Fares J, Liu X, Eid AH, Eid AA",
+      "journal": "J Cancer",
+      "year": 2014,
+      "details": "5(9):736-44",
+      "doi": "10.7150/jca.9726",
+      "pmcid": "PMC4216797",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2014-11-05"
+    },
+    {
+      "pmid": "25004126",
+      "title": "Loss of EGFR signaling regulated miR-203 promotes prostate cancer bone metastasis and tyrosine kinase inhibitors resistance",
+      "authors": "Siu MK, Abou-Kheir W, Yin JJ, Chang YS, Barrett B, Suau F, Casey O, Chen WY, Fang L, Hynes P, Hsieh YY, Liu YN, Huang J, Kelly K",
+      "journal": "Oncotarget",
+      "year": 2014,
+      "details": "5(11):3770-84",
+      "doi": "10.18632/oncotarget.1994",
+      "pmcid": "PMC4116519",
+      "type": "article",
+      "topics": [
+        "prostate",
+        "therapeutics"
+      ],
+      "sort": "2014-07-09"
+    },
+    {
+      "pmid": "22860005",
+      "title": "TMPRSS2- driven ERG expression in vivo increases self-renewal and maintains expression in a castration resistant subpopulation",
+      "authors": "Casey OM, Fang L, Hynes PG, Abou-Kheir WG, Martin PL, Tillman HS, Petrovics G, Awwad HO, Ward Y, Lake R, Zhang L, Kelly K",
+      "journal": "PLoS One",
+      "year": 2012,
+      "details": "7(7):e41668",
+      "doi": "10.1371/journal.pone.0041668",
+      "pmcid": "PMC3408501",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate"
+      ],
+      "sort": "2012-08-04"
+    },
+    {
+      "pmid": "22203039",
+      "title": "Critical and reciprocal regulation of KLF4 and SLUG in transforming growth factor β-initiated prostate cancer epithelial-mesenchymal transition",
+      "authors": "Liu YN, Abou-Kheir W, Yin JJ, Fang L, Hynes P, Casey O, Hu D, Wan Y, Seng V, Sheppard-Tillman H, Martin P, Kelly K",
+      "journal": "Mol Cell Biol",
+      "year": 2012,
+      "details": "32(5):941-53",
+      "doi": "10.1128/MCB.06306-11",
+      "pmcid": "PMC3295188",
+      "type": "article",
+      "topics": [
+        "prostate"
+      ],
+      "sort": "2011-12-29"
+    },
+    {
+      "pmid": "22022528",
+      "title": "Self-renewing Pten-/- TP53-/- protospheres produce metastatic adenocarcinoma cell lines with multipotent progenitor activity",
+      "authors": "Abou-Kheir W, Hynes PG, Martin P, Yin JJ, Liu YN, Seng V, Lake R, Spurrier J, Kelly K",
+      "journal": "PLoS One",
+      "year": 2011,
+      "details": "6(10):e26112",
+      "doi": "10.1371/journal.pone.0026112",
+      "pmcid": "PMC3191168",
+      "type": "article",
+      "topics": [
+        "organoids",
+        "csc"
+      ],
+      "sort": "2011-10-25"
+    },
+    {
+      "pmid": "21703421",
+      "title": "Prostate epithelial Pten/TP53 loss leads to transformation of multipotential progenitors and epithelial to mesenchymal transition",
+      "authors": "Martin P, Liu YN, Pierce R, Abou-Kheir W, Casey O, Seng V, Camacho D, Simpson RM, Kelly K",
+      "journal": "Am J Pathol",
+      "year": 2011,
+      "details": "179(1):422-35",
+      "doi": "10.1016/j.ajpath.2011.03.035",
+      "pmcid": "PMC3123810",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate"
+      ],
+      "sort": "2011-06-28"
+    },
+    {
+      "pmid": "20936707",
+      "title": "Characterizing the contribution of stem/progenitor cells to tumorigenesis in the Pten-/-TP53-/- prostate cancer model",
+      "authors": "Abou-Kheir WG, Hynes PG, Martin PL, Pierce R, Kelly K",
+      "journal": "Stem Cells",
+      "year": 2010,
+      "details": "28(12):2129-40",
+      "doi": "10.1002/stem.538",
+      "pmcid": "PMC7454246",
+      "type": "article",
+      "topics": [
+        "csc",
+        "prostate"
+      ],
+      "sort": "2010-10-12"
+    },
+    {
+      "pmid": "19808890",
+      "title": "Regulation of podosome dynamics by WASp phosphorylation: implication in matrix degradation and chemotaxis in macrophages",
+      "authors": "Dovas A, Gevrey JC, Grossi A, Park H, Abou-Kheir W, Cox D",
+      "journal": "J Cell Sci",
+      "year": 2009,
+      "details": "122(Pt 21):3873-82",
+      "doi": "10.1242/jcs.051755",
+      "pmcid": "PMC2773189",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2009-10-08"
+    },
+    {
+      "pmid": "18198193",
+      "title": "Membrane targeting of WAVE2 is not sufficient for WAVE2-dependent actin polymerization: a role for IRSp53 in mediating the interaction between Rac and WAVE2",
+      "authors": "Abou-Kheir W, Isaac B, Yamaguchi H, Cox D",
+      "journal": "J Cell Sci",
+      "year": 2008,
+      "details": "121(Pt 3):379-90",
+      "doi": "10.1242/jcs.010272",
+      "pmcid": "PMC2749557",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2008-01-17"
+    },
+    {
+      "pmid": "16280551",
+      "title": "A WAVE2-Abi1 complex mediates CSF-1-induced F-actin-rich membrane protrusions and migration in macrophages",
+      "authors": "Kheir WA, Gevrey JC, Yamaguchi H, Isaac B, Cox D",
+      "journal": "J Cell Sci",
+      "year": 2005,
+      "details": "118(Pt 22):5369-79",
+      "doi": "10.1242/jcs.02638",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "other"
+      ],
+      "sort": "2005-11-11"
+    },
+    {
+      "pmid": "15057144",
+      "title": "Molecular pathway for thymoquinone-induced cell-cycle arrest and apoptosis in neoplastic keratinocytes",
+      "authors": "Gali-Muhtasib HU, Abou Kheir WG, Kheir LA, Darwiche N, Crooks PA",
+      "journal": "Anticancer Drugs",
+      "year": 2004,
+      "details": "15(4):389-99",
+      "doi": "10.1097/00001813-200404000-00012",
+      "pmcid": "",
+      "type": "article",
+      "topics": [
+        "therapeutics",
+        "cancers"
+      ],
+      "sort": "2004-04-02"
+    }
+  ]
+}

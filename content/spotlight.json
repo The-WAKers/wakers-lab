@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Joe Youssef",
+    "role": "Postdoctoral fellow, AUB MD class of 2026",
+    "photo": "/media/team/joe-youssef.jpg",
+    "date": "2026-09",
+    "qa": [
+      {
+        "question": "What have you worked on in the lab?",
+        "answer": "The role of the androgen receptor (AR) in urothelial carcinoma. We showed that patients with AR-positive tumors have about four times the mortality."
+      },
+      {
+        "question": "What drew you to the WAKers?",
+        "answer": "A supportive environment and a great diversity of research interests."
+      },
+      {
+        "question": "What is a moment in the lab you won't forget?",
+        "answer": "The nights in the lab working with light-sensitive reagents, with no light at all, natural or artificial. I couldn't see myself :)"
+      },
+      {
+        "question": "What would you tell someone about to join?",
+        "answer": "Follow your heart. The WAKers will help you achieve your dreams."
+      }
+    ],
+    "example": false
+  }
+]

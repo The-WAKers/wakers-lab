@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "pubmedQuery": "\"Abou-Kheir W\"[Author] OR \"Abou Kheir W\"[Author] OR \"Kheir WA\"[Author]",
+    "labAuthorNames": [
+      "Abou-Kheir W",
+      "Abou Kheir W",
+      "Kheir WA"
+    ]
+  },
+  "highlights": [
+    {
+      "pmid": "42196575",
+      "summary": "Compares imipridone drugs in prostate cancer models that no longer depend on androgens, and positions ONC212 as the lead candidate using phenotypic and transcriptomic profiling."
+    },
+    {
+      "pmid": "42350197",
+      "summary": "Low-intensity focused ultrasound, delivered through the skull, increases the birth of new neurons in the hippocampus through BDNF signaling."
+    },
+    {
+      "pmid": "39551911",
+      "summary": "The imipridone ONC206 acts against colorectal cancer stem/progenitor cells, both in 3D cultures and in patient-derived organoids."
+    },
+    {
+      "pmid": "35741412",
+      "summary": "A urinary tract infection, far from the brain, is enough to suppress the birth of new neurons in the adult hippocampus."
+    },
+    {
+      "pmid": "34820005",
+      "summary": "Establishes and characterizes prostate organoids from patients who had not yet received any treatment."
+    },
+    {
+      "pmid": "33030673",
+      "summary": "Tideglusib, a GSK-3β inhibitor, curbs the growth of neuroblastoma stem/progenitor cells in culture and in animals."
+    },
+    {
+      "pmid": "30211124",
+      "summary": "A step-by-step protocol for enriching prostate cancer stem/progenitor cells by growing them as three-dimensional spheres."
+    },
+    {
+      "pmid": "26460201",
+      "summary": "Stimulating the thalamus in awake rats triggers the birth of new neurons in the hippocampal formation."
+    },
+    {
+      "pmid": "25380390",
+      "summary": "An extract of Berberis libanotica, a barberry native to Lebanon, shows anticancer effects on prostate cancer stem/progenitor cells."
+    }
+  ],
+  "extra": [],
+  "include": [],
+  "exclude": [],
+  "topicOverrides": []
+}

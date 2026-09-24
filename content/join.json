@@ -1,0 +1,63 @@
+{
+  "intro": "The WAKers is a training lab with two programs, cancer and neuroscience. Students and early-career researchers do real projects on either side, from designing experiments to writing the paper.",
+  "status": "Enquiries are welcome year-round.",
+  "positions": [
+    {
+      "title": "Graduate students",
+      "who": "MS and PhD",
+      "text": "Thesis projects through AUB's graduate programs in the Faculty of Medicine.",
+      "open": true
+    },
+    {
+      "title": "Medical students",
+      "who": "MD students and graduates",
+      "text": "Research electives and longer projects alongside medical training.",
+      "open": true
+    },
+    {
+      "title": "Research assistants",
+      "who": "Graduates in biology or related fields",
+      "text": "Full-time positions supporting projects, when funding allows.",
+      "open": false
+    },
+    {
+      "title": "Postdoctoral fellows",
+      "who": "PhD or MD/PhD",
+      "text": "Independent projects in organoids, cancer stem cells or neurogenesis.",
+      "open": false
+    },
+    {
+      "title": "Undergraduates and summer students",
+      "who": "Undergraduate students",
+      "text": "Short projects and hands-on experience in a working lab.",
+      "open": true
+    }
+  ],
+  "skills": [
+    "3D culture and organoids",
+    "Sphere-formation assays",
+    "In vivo neurogenesis models",
+    "Stereotaxic surgery and brain stimulation",
+    "Immunofluorescence and confocal microscopy",
+    "Cell and molecular biology",
+    "Animal models of cancer and brain injury",
+    "Data analysis",
+    "Scientific writing"
+  ],
+  "steps": [
+    {
+      "title": "Read our work",
+      "text": "Look through our two research programs and a few recent papers to see which side fits your interests."
+    },
+    {
+      "title": "Email Dr. Abou-Kheir",
+      "text": "Send your CV, your program and year, and two or three sentences on what you'd like to work on, and whether you lean towards the cancer or the neuroscience side."
+    },
+    {
+      "title": "Meet the team",
+      "text": "If there's a good fit, you'll be invited to meet the lab and discuss a project."
+    }
+  ],
+  "emailSubject": "Joining the WAKers: [your name], [your program]",
+  "faq": []
+}
